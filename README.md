@@ -1,2 +1,3 @@
-# software-testing-notes
-Notes and practice for software testing.
+# Software Testing Notes
+
+Learning software testing.
